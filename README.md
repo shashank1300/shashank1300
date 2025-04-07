@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/shashank1300">
-    <img src="https://github-readme-stats.vercel.app/api?username=shashank1300&show_icons=true&theme=dracula" alt="Shashank's GitHub Stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shashank1300&show_icons=true&theme=dracula" alt="GitHub Stats" height="180px"/>
   </a>
   <span style="display:inline-block; width= "50px";"></span>
   <a href="https://github.com/shashank1300">
