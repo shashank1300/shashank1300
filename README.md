@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shashank Rao
+### Hi there 👋 I'm Shashank
 
 <h3 align="center">📊 GitHub Stats</h3>
 
