@@ -2,20 +2,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <a href="https://github.com/shashank1300">
-    <img src="https://github-readme-stats.vercel.app/api?username=shashank1300&show_icons=true&theme=dracula" alt="GitHub Stats" height="180px"/>
-  </a>
-  <span style="display:inline-block; width= "50px";"></span>
-  <a href="https://github.com/shashank1300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank1300&layout=compact&theme=dracula" alt="Top Languages" height="180px"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashank1300&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count"/>
-</div>
-
 
 ---
 
