@@ -15,7 +15,9 @@ Here's a summary of key projects:
 ### Fully Automatic Washing Machine Controller
 * **Description:** Designed and implemented a Finite State Machine (FSM) based control system for a fully automatic washing machine using Verilog HDL. The system manages different wash cycles (soak, wash, rinse, spin) with varying timings based on selected modes, handles inputs like coin insertion, start/cancel buttons, and lid status (including pausing timers when the lid is open), and displays the current state on a 7-segment display. This was developed as part of the Digital System Design course (ECL-106) and targeted for a Terasic DE10-Lite FPGA board.
 * **Technologies:** `Verilog HDL`, `Finite State Machines (FSM)`, `FPGA`, `Intel MAX 10`, `Terasic DE10-Lite`, `Digital System Design`, `Hardware Description Language (HDL)`, `Simulation`, `Seven-Segment Displays`
-* [**LINK**](https://github.com/shashank1300) ### YOLO Object Detection in ROS 2 with Gazebo Simulation
+* [**LINK**](https://github.com/shashank1300)
+
+### YOLO Object Detection in ROS 2 with Gazebo Simulation
 * **Description:** Integrated the YOLO object detection algorithm within the ROS 2 framework, utilizing Gazebo simulation for generating camera sensor data in a virtual environment. Demonstrated skills in robotics simulation, software integration, and working with sensor data.
 * **Technologies:** `ROS 2`, `Gazebo`, `Python`, `YOLO`, `Computer Vision`, `Object Detection`, `Robotics Simulation`, `Linux`, `Camera Sensors (Simulated)`
 * [**LINK**](https://github.com/shashank1300/object_detect_ros2)
