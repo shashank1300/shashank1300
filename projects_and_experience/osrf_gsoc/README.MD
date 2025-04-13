@@ -45,6 +45,9 @@ Here's a summary of key projects most relevant to the OSRF proposal:
     * **Description:** Designed and simulated a Voltage-Controlled Oscillator (VCO) based on a 3-stage CMOS ring oscillator topology using the Microwind layout and simulation tool in 130nm CMOS technology. Focused on analog circuit design and VLSI simulation.
     * **Technologies:** `Microwind`, `CMOS Layout Design`, `VLSI Simulation`, `Voltage-Controlled Oscillator (VCO)`, `Ring Oscillator`, `130nm CMOS Technology`, `Analog Circuit Design`, `Transistor-Level Design`, `Circuit Simulation (SPICE-like)`
 
+### Cintributions I am working on:
+* **gz-sim #2746:** Extend Visualize Frustum GUI plugin to support camera sensors
+* [LINK](https://github.com/gazebosim/gz-sim/issues/2746)
 ### 🤝 Let's Connect:
 
 
